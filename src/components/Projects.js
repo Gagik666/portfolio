@@ -3,6 +3,7 @@ import { ProjectCard } from "./ProjectCard";
 import deasa from "../assets/img/deasa.png";
 import portfolio from "../assets/img/portfolio.png";
 import deasaQRcode from "../assets/img/deasa_QRcode.png";
+import portfolioQRcode from "../assets/img/portfolio_QR.png";
 import 'animate.css';
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import TrackVisibility from 'react-on-screen';
@@ -21,8 +22,8 @@ export const Projects = () => {
     {
       title: "My Portfolio",
       imgUrl: portfolio,
-      QRImgUrl: deasaQRcode,
-      projectUrl: "https://play.google.com/store/apps/details?id=com.deasa&hl=ru&gl=US"
+      QRImgUrl: portfolioQRcode,
+      projectUrl: "https://gagik666.github.io/portfolio/"
     },
   ];
 

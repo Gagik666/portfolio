@@ -44,7 +44,7 @@ export const NavBar = () => {
                         <div className="social-icon">
                             <a href="https://www.linkedin.com/in/gagik-vardanyan-a75823242/" target="_blank"><img src={navIcon1} alt="" /></a>
                             <a href="https://www.facebook.com/profile.php?id=100009812171240" target="_blank"><img src={navIcon2} alt="" /></a>
-                            <a href="https://github.com/Gagik666" target="_blank"><img src={github} alt="" /></a>
+                            <a href="https://gagik666.github.io/portfolio/" target="_blank"><img src={github} alt="" /></a>
                         </div>
                     </span>
                     <span style={{fontSize: 22, marginLeft: 10}}>+374 94 41 08 85</span>
